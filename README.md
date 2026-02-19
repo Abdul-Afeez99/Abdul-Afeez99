@@ -103,6 +103,25 @@ I'm a backend software engineer with hands-on experience building and shipping s
 
 ---
 
+## 🏗️ Currently Building
+
+### 🚴 Drova – WhatsApp-Native Eco-Friendly Delivery Service
+> Founder & Builder · Nigeria
+
+Drova is an intra-city delivery service in Nigeria that runs entirely over **WhatsApp** — no app download needed. Customers share pickup and delivery locations via WhatsApp, get matched with a nearby **bicycle rider**, and track their delivery in real time, all within the chat.
+
+**Why Drova?**
+- 🌱 Eco-friendly — zero emissions, bicycle-only deliveries
+- ⚡ Fast — deliveries usually under 60 minutes
+- 💬 WhatsApp-native — zero friction, no new app to install
+- 💰 Fair — riders earn **75%** of every delivery fee
+- 📦 Handles food, parcels, documents, groceries, electronics & more
+- 📍 Serves deliveries up to 10 km to keep things fast and sustainable
+
+**Stack:** `Python` · `WhatsApp Business API` · `FastAPI` · `PostgreSQL`
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🎓 RegTraka – Automated Facial Recognition Attendance System
@@ -168,8 +187,3 @@ Federal University of Agriculture, Abeokuta (FUNAAB) · *Sep 2017 – Nov 2023*
 *Thanks for stopping by — feel free to explore my repos or reach out!*
 
 </div>
-
-##Find me around the web 🌍  
-* Twitter: [@Abdul_Afeez99](https://twitter.com/Abdul_Afeez99)
-* Linkedin: [AbdulAfeez Adeyemo](https://www.linkedin.com/in/abdulafeez-adeyemo/)
-
